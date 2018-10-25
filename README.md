@@ -2,7 +2,7 @@
 
 Curated list about React Hooks
 
-![hulks](https://user-images.githubusercontent.com/15311858/47532377-8f86e600-d886-11e8-8aee-a43772b835f3.png)
+![hooks](https://user-images.githubusercontent.com/15311858/47534025-420d7780-d88c-11e8-9248-d4a65a1e35ce.png)
 
 # Tutorials
 - [Introducing Hooks - React](https://reactjs.org/docs/hooks-intro.html)
