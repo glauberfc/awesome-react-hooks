@@ -9,4 +9,3 @@ Curated list about React Hooks
 - [React Hooks and Suspense - Egghead.io](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 - [Hooks RFC](https://github.com/reactjs/rfcs/blob/hooks-rfc/text/0000-react-hooks.md)
 - [Everything you need to know about React Hooks - Carl Vitullo](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349)
-- 
