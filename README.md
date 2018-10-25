@@ -15,3 +15,4 @@ Curated list about React Hooks
 
 ## Examples
 - [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
+- [Toggle with React Hooks - Siddharth Kshetrapal](https://codesandbox.io/s/m449vyk65x)
