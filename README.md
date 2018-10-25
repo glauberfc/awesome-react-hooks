@@ -12,3 +12,6 @@ Curated list about React Hooks
 ## Discussions
 - [Hooks RFC](https://github.com/reactjs/rfcs/blob/hooks-rfc/text/0000-react-hooks.md)
 - [RFC: React Hooks #68 - Sebastian Markbåge](https://github.com/reactjs/rfcs/pull/68)
+
+## Examples
+- [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
