@@ -34,5 +34,6 @@ Curated list about React Hooks
 - [A somewhat complicated use case solved relatively nicely with React Hooks](https://github.com/jacobp100/hooks-test)
 
 ## Extensions/Libs
+- [Browser API's turned into React Hooks and Suspense-friendly React elements for common situations - The Palmer Group](https://github.com/palmerhq/the-platform)
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [React Hooks Lib](https://github.com/beizhedenglong/react-hooks-lib)
