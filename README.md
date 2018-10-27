@@ -18,6 +18,7 @@ Curated list about React Hooks
 - [React Today and Tomorrow and 90% Cleaner React - Dan Abramov and Sophie Alpert](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [React Hooks and Suspense - Egghead.io](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 - [My Thoughts on React Hooks - Ben Awad](https://www.youtube.com/watch?v=gmF4k6P2va8)
+- [Building a Todo List with React Hooks useState - Ben Awad](https://www.youtube.com/watch?v=cAZ-fOd1RpA)
 - [Everything you need to know about React Hooks - Carl Vitullo](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349)
 - [Hooks in react-spring, a tutorial - Paul Henschel](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4)
 - [React Hooks: Notes Taken - Tomáš Konrády](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0)
