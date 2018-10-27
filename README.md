@@ -15,6 +15,7 @@ Curated list about React Hooks
 - [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
 ## Tutorials/Articles
+- [React Today and Tomorrow and 90% Cleaner React - Dan Abramov and Sophie Alpert](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [React Hooks and Suspense - Egghead.io](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 - [My Thoughts on React Hooks - Ben Awad](https://www.youtube.com/watch?v=gmF4k6P2va8)
 - [Everything you need to know about React Hooks - Carl Vitullo](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349)
