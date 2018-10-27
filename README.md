@@ -1,4 +1,4 @@
-# Awesome Hooks
+# Awesome Hooks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list about React Hooks
 
@@ -32,8 +32,13 @@ Curated list about React Hooks
 - [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
 - [Toggle component - Siddharth Kshetrapal](https://codesandbox.io/s/m449vyk65x)
 - [A somewhat complicated use case solved relatively nicely with React Hooks](https://github.com/jacobp100/hooks-test)
+- [React-hooks: Silly little component to fire off actions in stateless components](https://github.com/tj/react-hooks)
 
 ## Extensions/Libs
-- [Browser API's turned into React Hooks and Suspense-friendly React elements for common situations - The Palmer Group](https://github.com/palmerhq/the-platform)
+- [The Platform: Browser API's turned into React Hooks and Suspense-friendly React elements for common situations](https://github.com/palmerhq/the-platform)
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
-- [React Hooks Lib](https://github.com/beizhedenglong/react-hooks-lib)
+- [React Hooks Lib - A set of reusable React Hooks](https://github.com/beizhedenglong/react-hooks-lib)
+- [use-immer - A hook to use immer as a React hook to manipulate state](https://github.com/mweststrate/use-immer)
+- [react-hanger - A small collection of useful hooks for React 16.7](https://github.com/kitze/react-hanger)
+- [React Firebase Hooks - A set of reusable React Hooks for Firebase](https://github.com/csfrequency/react-firebase-hooks)
+- [react-intersection-visible-hook - React hook to track the visibility of a functional component based on IntersectionVisible Observer](https://github.com/AvraamMavridis/react-intersection-visible-hook)
