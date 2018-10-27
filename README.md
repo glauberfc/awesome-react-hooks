@@ -22,6 +22,7 @@ Curated list about React Hooks
 - [React Hooks: Notes Taken - Tomáš Konrády](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0)
 
 ## Discussions
+- [v6 Candidate Preview: Use React Hooks for `connect` - Mark Erikson](https://github.com/reduxjs/react-redux/pull/1065)
 - [Hooks RFC](https://github.com/reactjs/rfcs/blob/hooks-rfc/text/0000-react-hooks.md)
 - [RFC: React Hooks #68 - Sebastian Markbåge](https://github.com/reactjs/rfcs/pull/68)
 
@@ -29,5 +30,6 @@ Curated list about React Hooks
 - [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
 - [Toggle component - Siddharth Kshetrapal](https://codesandbox.io/s/m449vyk65x)
 
-## Extensions
+## Extensions/Libs
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+- [React Hooks Lib](https://github.com/beizhedenglong/react-hooks-lib)
