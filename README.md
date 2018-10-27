@@ -28,11 +28,12 @@ Curated list about React Hooks
 - [RFC: React Hooks #68 - Sebastian Markbåge](https://github.com/reactjs/rfcs/pull/68)
 
 ## Examples
-- [Color Match Game - Tanner Linsley](https://codesandbox.io/s/jjy215l7w3)
-- [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
-- [Toggle component - Siddharth Kshetrapal](https://codesandbox.io/s/m449vyk65x)
+- [Color Match Game](https://codesandbox.io/s/jjy215l7w3)
+- [Counter using useState of React Hooks](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
+- [Toggle component](https://codesandbox.io/s/m449vyk65x)
 - [A somewhat complicated use case solved relatively nicely with React Hooks](https://github.com/jacobp100/hooks-test)
-- [React-hooks: Silly little component to fire off actions in stateless components](https://github.com/tj/react-hooks)
+- [react-hooks: Silly little component to fire off actions in stateless components](https://github.com/tj/react-hooks)
+- [react-hanger example](https://codesandbox.io/s/44m70xm70)
 
 ## Extensions/Libs
 - [The Platform: Browser API's turned into React Hooks and Suspense-friendly React elements for common situations](https://github.com/palmerhq/the-platform)
