@@ -31,6 +31,7 @@ Curated list about React Hooks
 - [Color Match Game - Tanner Linsley](https://codesandbox.io/s/jjy215l7w3)
 - [Counter using useState of React Hooks - Miguel Ángel](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js)
 - [Toggle component - Siddharth Kshetrapal](https://codesandbox.io/s/m449vyk65x)
+- [A somewhat complicated use case solved relatively nicely with React Hooks](https://github.com/jacobp100/hooks-test)
 
 ## Extensions/Libs
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
