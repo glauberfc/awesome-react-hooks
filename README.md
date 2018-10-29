@@ -39,6 +39,7 @@ Curated list about React Hooks
 - [react-hanger example](https://codesandbox.io/s/44m70xm70)
 
 ## Extensions/Libs
+- [react-use - Collection of essential React Hooks](https://github.com/streamich/react-use)
 - [The Platform: Browser API's turned into React Hooks and Suspense-friendly React elements for common situations](https://github.com/palmerhq/the-platform)
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 - [React Hooks Lib - A set of reusable React Hooks](https://github.com/beizhedenglong/react-hooks-lib)
