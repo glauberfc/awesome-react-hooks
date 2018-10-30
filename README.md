@@ -24,6 +24,7 @@
 ## Tutorials/Articles
 - [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM) - Dan Abramov and Sophie Alpert
 - [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2) - Kent C. Dodds
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) - Dan Abramov
 - [My Thoughts on React Hooks](https://www.youtube.com/watch?v=gmF4k6P2va8) - Ben Awad
 - [Fetching Data from an API with React Hooks useEffect](https://www.youtube.com/watch?v=k0WnY0Hqe5c) - Ben Awad
 - [Are React Hooks Slower than Class Components?](https://www.youtube.com/watch?v=tKRWuVOEB2w) - Ben Awad
