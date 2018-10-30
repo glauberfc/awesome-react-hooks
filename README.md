@@ -47,3 +47,8 @@ Curated list about React Hooks
 - [react-hanger - A small collection of useful hooks for React 16.7](https://github.com/kitze/react-hanger)
 - [React Firebase Hooks - A set of reusable React Hooks for Firebase](https://github.com/csfrequency/react-firebase-hooks)
 - [react-intersection-visible-hook - React hook to track the visibility of a functional component based on IntersectionVisible Observer](https://github.com/AvraamMavridis/react-intersection-visible-hook)
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Glauber Castro](https://github.com/glauberfc) has waived all copyright and related or neighboring rights to this work.
