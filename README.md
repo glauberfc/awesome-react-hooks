@@ -47,6 +47,7 @@
 - [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use
 - [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components
 - [useHooks](https://usehooks.com/) - One new React Hook recipe every day
+- [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 
 ## Extensions/Libs
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
