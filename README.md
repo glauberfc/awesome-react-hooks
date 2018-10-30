@@ -45,6 +45,7 @@
 - [react-hooks](https://github.com/tj/react-hooks) - Silly little component to fire off actions in stateless components
 - [react-hanger example](https://codesandbox.io/s/44m70xm70)
 - [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use
+- [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components
 
 ## Extensions/Libs
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
