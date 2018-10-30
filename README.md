@@ -1,6 +1,6 @@
 # Awesome Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-![hooks](https://user-images.githubusercontent.com/15311858/47534025-420d7780-d88c-11e8-9248-d4a65a1e35ce.png)
+![hooks](https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png)
 
 > Curated list about React Hooks
 
