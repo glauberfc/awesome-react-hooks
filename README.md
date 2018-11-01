@@ -32,6 +32,7 @@
 - [Everything you need to know about React Hooks](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349) - Carl Vitullo
 - [Hooks in react-spring, a tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4) - Paul Henschel
 - [React Hooks: Notes Taken](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0) - Tomáš Konrády
+- [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks) - Chris Sevilleja
 
 ## Discussions
 - [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson
@@ -49,6 +50,9 @@
 - [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components
 - [useHooks](https://usehooks.com/) - One new React Hook recipe every day
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+- [A demo of how react-spring could use React Hooks as a new API](https://codesandbox.io/s/ppxnl191zx)
+- [React Hooks: useState() and useEffect()](https://codesandbox.io/s/yq5qowzrvz)
+- [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - Example app for this post: [Making a beautiful Todo App using React Hooks + Material UI](https://itnext.io/making-a-beautiful-todo-app-using-react-hooks-material-ui-52dacf3245f4)
 
 ## Extensions/Libs
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
