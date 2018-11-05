@@ -25,15 +25,19 @@
 - [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM) - Dan Abramov and Sophie Alpert
 - [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2) - Kent C. Dodds
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) - Dan Abramov
-- [My Thoughts on React Hooks](https://www.youtube.com/watch?v=gmF4k6P2va8) - Ben Awad
-- [Fetching Data from an API with React Hooks useEffect](https://www.youtube.com/watch?v=k0WnY0Hqe5c) - Ben Awad
-- [Are React Hooks Slower than Class Components?](https://www.youtube.com/watch?v=tKRWuVOEB2w) - Ben Awad
-- [Building a Todo List with React Hooks useState](https://www.youtube.com/watch?v=cAZ-fOd1RpA) - Ben Awad
+- [My Thoughts on React Hooks](https://youtu.be/gmF4k6P2va8) - Ben Awad
+- [Fetching Data from an API with React Hooks useEffect](https://youtu.be/k0WnY0Hqe5c) - Ben Awad
+- [Are React Hooks Slower than Class Components?](https://youtu.be/tKRWuVOEB2w) - Ben Awad
+- [Building a Todo List with React Hooks useState](https://youtu.be/cAZ-fOd1RpA) - Ben Awad
+- [Using React Hooks vs. Class Components](https://youtu.be/vbaIZ3xMj9U) - Ben Awad
+- [Using Immer with Reducers and React Hooks](https://youtu.be/FmKjwh34Rn8) - Ben Awad
+- [React Hooks useContext](https://youtu.be/xWXxkFzgnFM) - Ben Awad
 - [Everything you need to know about React Hooks](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349) - Carl Vitullo
 - [Hooks in react-spring, a tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4) - Paul Henschel
 - [React Hooks: Notes Taken](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0) - Tomáš Konrády
 - [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks) - Chris Sevilleja
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e) - Rudi Yardley
+- [Why React’s new Hooks API is a game changer](https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c) - Rudi Yardley
 - [Writing Custom React Hooks for GraphQL](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62) - Nader Dabit
 
 ## Discussions
