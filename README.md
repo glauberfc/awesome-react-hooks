@@ -33,6 +33,8 @@
 - [Hooks in react-spring, a tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4) - Paul Henschel
 - [React Hooks: Notes Taken](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0) - Tomáš Konrády
 - [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks) - Chris Sevilleja
+- [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e) - Rudi Yardley
+- [Writing Custom React Hooks for GraphQL](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62) - Nader Dabit
 
 ## Discussions
 - [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson
