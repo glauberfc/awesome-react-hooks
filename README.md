@@ -42,9 +42,9 @@
 - [Writing Custom React Hooks for GraphQL](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62) - Nader Dabit
 
 ## Discussions
-- [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson
+- [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - [Mark Erikson](https://github.com/markerikson)
 - [Hooks RFC](https://github.com/reactjs/rfcs/blob/hooks-rfc/text/0000-react-hooks.md)
-- [RFC: React Hooks #68](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge
+- [RFC: React Hooks #68](https://github.com/reactjs/rfcs/pull/68) - [Sebastian Markbåge](https://github.com/sebmarkbage)
 - [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - [Héctor Ramos](https://github.com/hramos)
 
 ## Examples
