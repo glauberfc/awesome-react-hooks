@@ -45,6 +45,7 @@
 - [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson
 - [Hooks RFC](https://github.com/reactjs/rfcs/blob/hooks-rfc/text/0000-react-hooks.md)
 - [RFC: React Hooks #68](https://github.com/reactjs/rfcs/pull/68) - Sebastian Markbåge
+- [Using Hooks in React Native](https://github.com/facebook/react-native/issues/21967#issuecomment-434113687) - [Héctor Ramos](https://github.com/hramos)
 
 ## Examples
 - [Color Match Game](https://codesandbox.io/s/jjy215l7w3)
