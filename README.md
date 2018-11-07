@@ -73,6 +73,7 @@
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase
 - [react-intersection-visible-hook](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer
 - [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components
+- [react-with-hooks](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
