@@ -2,7 +2,7 @@
 
 ![hooks](https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png)
 
-> A new feature proposal that lets you use state and other React features without writing a class
+> Curated list about React Hooks
 
 ## Contents
 - [Hooks (proposal)](https://github.com/glauberfc/awesome-hooks#hooks-proposal)
