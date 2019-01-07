@@ -1,4 +1,4 @@
-# Awesome Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome React Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ![hooks](https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png)
 
