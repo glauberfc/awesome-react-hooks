@@ -9,7 +9,7 @@
 - [Tutorials/Articles](https://github.com/glauberfc/awesome-hooks#tutorialsarticles)
 - [Discussions](https://github.com/glauberfc/awesome-hooks#discussions)
 - [Examples](https://github.com/glauberfc/awesome-hooks#examples)
-- [Extensions/Libs](https://github.com/glauberfc/awesome-hooks#extensionslibs)
+- [Extensions/Libraries](https://github.com/glauberfc/awesome-hooks#extensionslibs)
 
 ## Hooks (proposal)
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
@@ -64,7 +64,7 @@
 - [React Hooks: useState() and useEffect()](https://codesandbox.io/s/yq5qowzrvz)
 - [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - Example app for this post: [Making a beautiful Todo App using React Hooks + Material UI](https://itnext.io/making-a-beautiful-todo-app-using-react-hooks-material-ui-52dacf3245f4)
 
-## Extensions/Libs
+## Extensions/Libraries
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
 - [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations
