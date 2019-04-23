@@ -65,6 +65,7 @@
 - [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - Example app for this post: [Making a beautiful Todo App using React Hooks + Material UI](https://itnext.io/making-a-beautiful-todo-app-using-react-hooks-material-ui-52dacf3245f4)
 
 ## Extensions/Libraries
+- [use-http](https://github.com/alex-cory/react-usefetch) - 🐶 React hooks for making isomorphic http requests
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
 - [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations
