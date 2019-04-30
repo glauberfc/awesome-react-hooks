@@ -74,6 +74,7 @@
 - [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase
 - [react-intersection-visible-hook](https://github.com/AvraamMavridis/react-intersection-visible-hook) - React hook to track the visibility of a functional component based on IntersectionVisible Observer
+- [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer
 - [react-native-hooks](https://github.com/react-native-community/react-native-hooks) - React Native APIs turned into React Hooks for use in stateless React components
 - [react-with-hooks](https://github.com/yesmeck/react-with-hooks) - Ponyfill for the proposed React Hooks API
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
