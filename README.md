@@ -42,6 +42,8 @@
 - [Writing Custom React Hooks for GraphQL](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62) - Nader Dabit
 - [Manage global state with React Hooks](https://medium.com/@Charles_Stover/manage-global-state-with-react-hooks-6065041b55b4) - Charles Stover
 - [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - Ross Bulat
+- [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston
+- [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston
 
 ## Discussions
 - [v6 Candidate Preview: Use React Hooks for `connect`](https://github.com/reduxjs/react-redux/pull/1065) - Mark Erikson
