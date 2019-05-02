@@ -10,7 +10,7 @@
 - [Tutorials/Articles](https://github.com/glauberfc/awesome-react-hooks#tutorialsarticles)
 - [Discussions](https://github.com/glauberfc/awesome-react-hooks#discussions)
 - [Examples](https://github.com/glauberfc/awesome-react-hooks#examples)
-- [Extensions/Libraries](https://github.com/glauberfc/awesome-react-hooks#extensionslibs)
+- [Extensions/Libraries](https://github.com/glauberfc/awesome-react-hooks#extensionslibraries)
 
 ## Hooks
 
