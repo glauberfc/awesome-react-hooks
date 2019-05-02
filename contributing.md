@@ -2,29 +2,29 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-## Adding an awesome list
+---
 
-Please ensure your pull request adheres to the [list guidelines](pull_request_template.md).
+Ensure your pull request adheres to the following guidelines:
 
-## Creating your own awesome list
+- **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
+- Only submit something unique and useful. If you submitting a article be sure that you've read it before and that it is a interesting article.
+- Search previous suggestions before making a new one to avoid duplicate links.
+- Make an individual pull request for each suggestion.
+- Be sure to use [awesome-lint](https://github.com/sindresorhus/awesome-lint) before make a pull request.
+- Don't use emojis on titles or descriptions.
+- Use the following format for **Tutorials/Articles** and **Discussions**: `[The complete title](link) - Authors.`
+- **Examples** is a section reserved for projects that give us tips about how apply React Hooks.
+- Use the following format for **Examples**: `[Title](link) - A short description.`
+- Use the following format for **Extensions/Libraries**: `[The extension's or library's name (in the same font case as it is on the repository)](link) - Description.`
+- Additions should be added to the bottom of the relevant category and after the last item of the category.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital.
+- Don't start the description with `A` or `An`.
+- Make sure your text editor is set to remove trailing whitespace.
+- New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 
-To create your own list, check out the [instructions](create-list.md).
+Thank you for your suggestion!
 
-## Adding something to an awesome list
+### Updating your PR
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
-
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks) list's GitHub page.
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
-
-## Updating your Pull Request
-
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
-
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
