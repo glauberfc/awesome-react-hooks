@@ -12,7 +12,7 @@ Ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Be sure to use [awesome-lint](https://github.com/sindresorhus/awesome-lint) before make a pull request.
 - Don't use emojis on titles or descriptions.
-- Use the following format for **Tutorials/Articles** and **Discussions**: `[The complete title](link) - Authors.`
+- Use the following format for **Tutorials/Articles/Workshops** and **Discussions**: `[The complete title](link) - Authors.`
 - **Examples** is a section reserved for projects that give us tips about how apply React Hooks.
 - Use the following format for **Examples**: `[Title](link) - A short description.`
 - Use the following format for **Extensions/Libraries**: `[The extension's or library's name (in the same font case as it is on the repository)](link) - Description.`
