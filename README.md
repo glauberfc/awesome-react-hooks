@@ -7,7 +7,7 @@
 ## Contents
 
 - [Hooks](https://github.com/glauberfc/awesome-react-hooks#hooks)
-- [Tutorials/Articles](https://github.com/glauberfc/awesome-react-hooks#tutorialsarticles)
+- [Tutorials/Articles/Workshops](https://github.com/glauberfc/awesome-react-hooks#tutorialsarticlesworkshops)
 - [Discussions](https://github.com/glauberfc/awesome-react-hooks#discussions)
 - [Examples](https://github.com/glauberfc/awesome-react-hooks#examples)
 - [Extensions/Libraries](https://github.com/glauberfc/awesome-react-hooks#extensionslibraries)
@@ -23,7 +23,7 @@
 - [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 - [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
 
-## Tutorials/Articles
+## Tutorials/Articles/Workshops
 
 - [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM) - Dan Abramov and Sophie Alpert.
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) - Dan Abramov.
@@ -47,6 +47,7 @@
 - [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - Ross Bulat.
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston.
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston.
+- [Advanced React Hooks Workshops](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
 
 ## Discussions
 
