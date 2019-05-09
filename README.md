@@ -2,9 +2,9 @@
 
 [<img src="https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png">](https://github.com/glauberfc/awesome-react-hooks)
 
-> A curated list about React Hooks.
+A curated list about React Hooks.
 
-_Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class._
+> _Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class._
 
 ## Contents
 
