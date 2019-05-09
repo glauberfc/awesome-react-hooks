@@ -1,16 +1,18 @@
 # Awesome React Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A curated list about React Hooks
+[<img src="https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png">](https://github.com/glauberfc/awesome-react-hooks)
 
-![hooks](https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png)
+> A curated list about React Hooks.
+
+_Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class._
 
 ## Contents
 
-- [Hooks](https://github.com/glauberfc/awesome-react-hooks#hooks)
-- [Tutorials/Articles/Workshops](https://github.com/glauberfc/awesome-react-hooks#tutorialsarticlesworkshops)
-- [Discussions](https://github.com/glauberfc/awesome-react-hooks#discussions)
-- [Examples](https://github.com/glauberfc/awesome-react-hooks#examples)
-- [Extensions/Libraries](https://github.com/glauberfc/awesome-react-hooks#extensionslibraries)
+- [Hooks](#hooks)
+- [Tutorials/Articles/Workshops](#tutorialsarticlesworkshops)
+- [Discussions](#discussions)
+- [Examples](#examples)
+- [Extensions/Libraries](#extensionslibraries)
 
 ## Hooks
 
