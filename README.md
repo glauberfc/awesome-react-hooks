@@ -71,7 +71,7 @@ A curated list about React Hooks.
 - [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
 - [React Hooks](https://codesandbox.io/s/yq5qowzrvz) - React Hooks useState() and useEffect().
 - [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - App made with React Hooks.
-- [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg
+- [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg.
 
 ## Extensions/Libraries
 
