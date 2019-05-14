@@ -89,6 +89,7 @@ A curated list about React Hooks.
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 - [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
+- [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg
 
 ## License
 
