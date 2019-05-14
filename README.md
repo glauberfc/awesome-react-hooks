@@ -63,7 +63,7 @@ A curated list about React Hooks.
 - [React Hooks counter](https://codesandbox.io/s/yjn90lzwrx?module=%2Fsrc%2FApp.js) - Counter using useState of React Hooks.
 - [Toggle component](https://codesandbox.io/s/m449vyk65x) - Toggle component made with React Hooks.
 - [Hooks test](https://github.com/jacobp100/hooks-test) - Somewhat complicated use case solved relatively nicely with React Hooks.
-- [React Hanger](https://codesandbox.io/s/44m70xm70) - React Hanger example.
+- [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example.
 - [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use.
 - [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by [Gabe Ragland](https://twitter.com/gabe_ragland).
