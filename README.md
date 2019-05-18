@@ -90,6 +90,7 @@ A curated list about React Hooks.
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 - [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
+- [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 
 ## License
 
