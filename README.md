@@ -66,6 +66,7 @@ A curated list about React Hooks.
 - [React Hanger](https://github.com/kitze/react-hanger) - React Hanger example.
 - [React Navigation Hooks](https://github.com/react-navigation/react-navigation-hooks) - React hooks for convenient react-navigation use.
 - [Haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
+- [Atomico](https://github.com/atomicojs/core) - Small implementation of JSX + Hooks + WebComponents.
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by [Gabe Ragland](https://twitter.com/gabe_ragland).
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) - Collection of React Hooks.
 - [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
