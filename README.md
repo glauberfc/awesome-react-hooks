@@ -50,6 +50,13 @@ A curated list about React Hooks.
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston.
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston.
 - [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
+- [React Hooks: Migration from Class to Function Components](https://www.robinwieruch.de/react-hooks-migration/) - Robin Wieruch
+- [Modern State Management with useState, useReducer, and useContext](https://www.robinwieruch.de/react-state-usereducer-usestate-usecontext/) - Robin Wieruch
+- [Comparison: useState vs useReducer](https://www.robinwieruch.de/react-usereducer-vs-usestate/) - Robin Wieruch
+- [How to useReducer?](https://www.robinwieruch.de/react-usereducer-hook/) - Robin Wieruch
+- [Why useReducer/useContext don't replace Redux](https://www.robinwieruch.de/redux-vs-usereducer/) - Robin Wieruch
+- [How to implement Redux with React Hooks](https://www.robinwieruch.de/redux-with-react-hooks/) - Robin Wieruch
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/) - Robin Wieruch
 
 ## Discussions
 
@@ -71,6 +78,7 @@ A curated list about React Hooks.
 - [React Spring demo](https://codesandbox.io/s/ppxnl191zx) - Demo of how react-spring could use React Hooks as a new API.
 - [React Hooks](https://codesandbox.io/s/yq5qowzrvz) - React Hooks useState() and useEffect().
 - [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - App made with React Hooks.
+- [React Hooks Application](https://github.com/the-road-to-learn-react/react-with-redux-philosophy) -  Using useState, useReducer, and useContext to mimic Redux.
 - [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg.
 
 ## Extensions/Libraries
@@ -90,6 +98,7 @@ A curated list about React Hooks.
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 - [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
+- [use-combined-reducers](https://github.com/the-road-to-learn-react/use-combined-reducers) - React Hook to combine multiple useReducer hooks for one global state container.
 
 ## License
 
