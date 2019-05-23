@@ -80,6 +80,7 @@ A curated list about React Hooks.
 - [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks) - This plugin enforce rule of hooks to avoid common mistakes.
 - [react-hooks-lib](https://github.com/beizhedenglong/react-hooks-lib) - A set of reusable React Hooks.
+- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 - [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state.
 - [react-hanger](https://github.com/kitze/react-hanger) - A small collection of useful hooks for React 16.7.
 - [react-firebase-hooks](https://github.com/csfrequency/react-firebase-hooks) - A set of reusable React Hooks for Firebase.
