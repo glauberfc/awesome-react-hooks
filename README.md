@@ -91,6 +91,7 @@ A curated list about React Hooks.
 - [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 - [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
+- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
 
 ## License
 
