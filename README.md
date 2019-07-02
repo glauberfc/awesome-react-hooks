@@ -91,6 +91,7 @@ A curated list about React Hooks.
 - [the-platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 - [use-http](https://github.com/alex-cory/react-usefetch) - React hooks for making isomorphic HTTP requests.
 - [use-immer](https://github.com/mweststrate/use-immer) - A hook to use immer as a React hook to manipulate state.
+- [use-store](https://github.com/pretodor/use-store) - `useStore()` - a reactive alternative to React's `useState()`
 - [use-timer](https://github.com/thibaultboursier/use-timer) - Simple React hook to handle timer.
 
 ## License
