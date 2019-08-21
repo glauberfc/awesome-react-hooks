@@ -92,6 +92,7 @@ A curated list about React Hooks.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) - React hook for conveniently use Fetch API.
 - [storeon](https://github.com/storeon/storeon) - hook-based state manager in 173 bytes.
 - [react-hook-form](https://github.com/bluebill1049/react-hook-form) - Performance, flexible and extensible forms with easy to use for validation.
+- [@hookstate/core](https://github.com/avkonst/hookstate) - Modern, very fast and extendable state management for React that is based on hooks.
 
 ## License
 
