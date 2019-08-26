@@ -50,6 +50,7 @@ A curated list about React Hooks.
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - Austin Johnston.
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - Austin Johnston.
 - [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) - Kent C. Dodds.
+- [The Guide to Learning React Hooks (Examples & Tutorials)](https://www.telerik.com/kendo-react-ui/react-hooks-guide/) - Eric S Bishard.
 
 ## Discussions
 
