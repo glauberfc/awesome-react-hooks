@@ -75,6 +75,7 @@ A curated list about React Hooks.
 
 ## Extensions/Libraries
 
+- [@react-hookz/web](https://github.com/react-hookz/web) - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React Hook for accessing state and dispatch from a Redux store.
 - [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks.
 - [The Platform](https://github.com/palmerhq/the-platform) - Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
