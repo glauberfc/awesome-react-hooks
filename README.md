@@ -72,6 +72,7 @@ A curated list about React Hooks.
 - [React Hooks](https://codesandbox.io/s/yq5qowzrvz) - React Hooks useState() and useEffect().
 - [Hooks Todo App](https://codesandbox.io/s/9kwyzy0y4) - App made with React Hooks.
 - [react-thanos](https://github.com/codeshifu/react-thanos) - React hooks implementation of Google's Thanos easter egg.
+- [react-epub-reader](https://github.com/alex1504/react-epub-reader) - React Epub reader made with React Hooks.
 
 ## Extensions/Libraries
 
