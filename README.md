@@ -16,14 +16,11 @@ A curated list about React Hooks.
 
 ## Hooks
 
-- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
-- [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-- [Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
-- [Rules of Hooks](https://reactjs.org/docs/hooks-rules.html)
-- [Building Your Own Hooks](https://reactjs.org/docs/hooks-custom.html)
-- [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
-- [Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
+- [Introducing Hooks](https://react.dev/reference/react/hooks)
+- [Using the State Hook](https://react.dev/reference/react/hooks#state-hooks)
+- [Using the Effect Hook](https://react.dev/reference/react/hooks#effect-hooks)
+- [Rules of Components and Hooks](https://react.dev/reference/rules/components-and-hooks-must-be-pure)
+- [Building Your Own Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks#extracting-your-own-custom-hook-from-a-component)
 
 ## Tutorials/Articles/Workshops
 
